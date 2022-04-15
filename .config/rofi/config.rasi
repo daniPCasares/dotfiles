@@ -1,0 +1,5 @@
+configuration {               
+  modes: "window,run,ssh,drun";
+  show-icons: true;
+}
+@theme "purple"
